@@ -46,12 +46,6 @@
       "url": "https://chatgpt.com"
     },
     {
-      "id": "noi:claude",
-      "parent": "noi@ai",
-      "text": "Claude",
-      "url": "https://claude.ai"
-    },
-    {
       "id": "noi:gemini",
       "parent": "noi@ai",
       "text": "Gemini",
@@ -64,28 +58,10 @@
       "url": "https://grok.com"
     },
     {
-      "id": "noi:deepseek",
-      "parent": "noi@ai",
-      "text": "DeepSeek",
-      "url": "https://chat.deepseek.com"
-    },
-    {
       "id": "noi:githubcopilot",
       "parent": "noi@ai",
       "text": "GitHub Copilot",
       "url": "https://github.com/copilot"
-    },
-    {
-      "id": "noi:sora",
-      "parent": "noi@ai",
-      "text": "Sora",
-      "url": "https://sora.com"
-    },
-    {
-      "id": "noi:poe",
-      "parent": "noi@ai",
-      "text": "Poe",
-      "url": "https://poe.com"
     },
     {
       "id": "noi:perplexity",
@@ -100,64 +76,16 @@
       "url": "https://copilot.microsoft.com"
     },
     {
-      "id": "noi:huggingchat",
-      "parent": "noi@ai",
-      "text": "HuggingChat",
-      "url": "https://huggingface.co/chat"
-    },
-    {
-      "id": "noi:qwen",
-      "parent": "noi@ai",
-      "text": "Qwen",
-      "url": "https://chat.qwen.ai"
-    },
-    {
       "id": "noi:groq",
       "parent": "noi@ai",
       "text": "Groq",
       "url": "https://chat.groq.com"
     },
     {
-      "id": "noi:lechatmistral",
-      "parent": "noi@ai",
-      "text": "Le Chat Mistral",
-      "url": "https://chat.mistral.ai/chat"
-    },
-    {
-      "id": "noi:pi",
-      "parent": "noi@ai",
-      "text": "Pi",
-      "url": "https://pi.ai/talk"
-    },
-    {
       "id": "noi:notebooklm",
       "parent": "noi@ai",
       "text": "NotebookLM",
       "url": "https://notebooklm.google.com"
-    },
-    {
-      "id": "noi:coze",
-      "parent": "noi@ai",
-      "text": "Coze",
-      "url": "https://www.coze.com/home"
-    },
-    {
-      "id": "noi:you",
-      "parent": "noi@ai",
-      "text": "YOU",
-      "url": "https://you.com"
-    },
-    {
-      "id": "noi:midjourney",
-      "parent": "noi@ai",
-      "text": "Midjourney",
-      "url": "https://www.midjourney.com"
-    },
-    {
-      "id": "noi:suno",
-      "parent": "noi@ai",
-      "text": "Suno AI",
-      "url": "https://suno.com"
     },
     {
       "id": "noi:github",

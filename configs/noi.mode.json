@@ -172,16 +172,16 @@
       "url": "https://www.youtube.com"
     },
     {
-      "id": "noi:Dashboard",
+      "id": "noi:dashboard",
       "parent": "noi@byui",
       "text": "Dashboard",
       "url": "https://byui.instructure.com/"
     },
     {
-      "id": "noi:ECON381",
+      "id": "noi:econ381",
       "parent": "noi@byui",
       "text": "ECON 381",
       "url": "https://byui.instructure.com/courses/323298"
-    },
+    }
   ]
 }

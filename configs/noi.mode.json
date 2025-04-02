@@ -4,6 +4,12 @@
   "sync": "https://github.com/1Ramirez7/noi/blob/main/configs/noi.mode.json",
   "modes": [
     {
+      "id": "noi@byui",
+      "parent": 0,
+      "dir": true,
+      "text": "BYUI"
+    },
+    {
       "id": "noi@ai",
       "parent": 0,
       "dir": true,
@@ -164,6 +170,18 @@
       "parent": "noi@video",
       "text": "YouTube",
       "url": "https://www.youtube.com"
-    }
+    },
+    {
+      "id": "noi:Dashboard",
+      "parent": "noi@byui",
+      "text": "Dashboard",
+      "url": "https://byui.instructure.com/"
+    },
+    {
+      "id": "noi:ECON381",
+      "parent": "noi@byui",
+      "text": "ECON 381",
+      "url": "https://byui.instructure.com/courses/323298"
+    },
   ]
 }

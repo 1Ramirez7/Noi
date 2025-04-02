@@ -88,12 +88,6 @@
       "url": "https://chat.groq.com"
     },
     {
-      "id": "noi:notebooklm",
-      "parent": "noi@ai",
-      "text": "NotebookLM",
-      "url": "https://notebooklm.google.com"
-    },
-    {
       "id": "noi:github",
       "parent": "noi@dev",
       "text": "GitHub",
@@ -182,6 +176,24 @@
       "parent": "noi@byui",
       "text": "ECON 381",
       "url": "https://byui.instructure.com/courses/323298"
+    },
+    {
+      "id": "noi:notebooklm",
+      "parent": "noi@byui",
+      "text": "NotebookLM",
+      "url": "https://notebooklm.google.com"
+    },
+    {
+      "id": "noi:shinyshortrun",
+      "parent": "noi@byui",
+      "text": "Short Run Model",
+      "url": "https://posit.byui.edu/connect/#/apps/5f01a187-d985-4498-896a-6e9ed70a32d5"
+    },
+    {
+      "id": "noi:shinylongrun",
+      "parent": "noi@byui",
+      "text": "Long Run Model",
+      "url": "https://posit.byui.edu/connect/#/apps/40ad9ac4-3f96-4660-ad0d-142e89e12048"
     }
   ]
 }

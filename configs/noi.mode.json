@@ -28,10 +28,10 @@
       "text": "Community"
     },
     {
-      "id": "noi@design",
+      "id": "noi@notebooks",
       "parent": 0,
       "dir": true,
-      "text": "Design"
+      "text": "Git Notebooks"
     },
     {
       "id": "noi@email",
@@ -94,12 +94,6 @@
       "url": "https://github.com"
     },
     {
-      "id": "noi:replit",
-      "parent": "noi@dev",
-      "text": "Replit",
-      "url": "https://replit.com"
-    },
-    {
       "id": "noi:huggingface",
       "parent": "noi@dev",
       "text": "Hugging Face",
@@ -118,34 +112,40 @@
       "url": "https://idx.google.com"
     },
     {
-      "id": "noi:x",
+      "id": "noi:exorders",
       "parent": "noi@community",
-      "text": "X",
-      "url": "https://twitter.com"
+      "text": "Ex. Orders",
+      "url": "https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025"
     },
     {
-      "id": "noi:discord",
+      "id": "noi:econassociation",
       "parent": "noi@community",
-      "text": "Discord",
-      "url": "https://discord.com"
+      "text": "Econ Association",
+      "url": "https://www.aeaweb.org/journals"
     },
     {
-      "id": "noi:hackernews",
-      "parent": "noi@community",
-      "text": "Hacker News",
-      "url": "https://news.ycombinator.com"
+      "id": "noi:timeseries",
+      "parent": "noi@notebooks",
+      "text": "Time Series",
+      "url": "https://1ramirez7.github.io/Applied-Time-Series-Analysis-Notebook/"
     },
     {
-      "id": "noi:figma",
-      "parent": "noi@design",
-      "text": "Figma",
-      "url": "https://www.figma.com"
+      "id": "noi:econnotebook",
+      "parent": "noi@notebooks",
+      "text": "Econ Notebook",
+      "url": "https://1ramirez7.github.io/Economics-Notebook/"
     },
     {
-      "id": "noi:dribbble",
-      "parent": "noi@design",
-      "text": "Dribbble",
-      "url": "https://dribbble.com"
+      "id": "noi:portfolio",
+      "parent": "noi@notebooks",
+      "text": "Portfolio",
+      "url": "https://1ramirez7.github.io/Portfolio_/"
+    },
+    {
+      "id": "noi:statsnotebook",
+      "parent": "noi@notebooks",
+      "text": "Stats Notebook",
+      "url": "https://1ramirez7.github.io/Statistics-Notebook/"
     },
     {
       "id": "noi:gmail",

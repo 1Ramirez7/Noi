@@ -1,0 +1,199 @@
+{
+  "name": "Noi Mode",
+  "version": "0.2.0",
+  "sync": "https://github.com/1Ramirez7/noi/blob/main/configs/noi.mode.json",
+  "modes": [
+    {
+      "id": "noi@byui",
+      "parent": 0,
+      "dir": true,
+      "text": "BYUI"
+    },
+    {
+      "id": "noi@ai",
+      "parent": 0,
+      "dir": true,
+      "text": "AI"
+    },
+    {
+      "id": "noi@dev",
+      "parent": 0,
+      "dir": true,
+      "text": "Dev"
+    },
+    {
+      "id": "noi@community",
+      "parent": 0,
+      "dir": true,
+      "text": "Community"
+    },
+    {
+      "id": "noi@notebooks",
+      "parent": 0,
+      "dir": true,
+      "text": "Git Notebooks"
+    },
+    {
+      "id": "noi@email",
+      "parent": 0,
+      "dir": true,
+      "text": "Email"
+    },
+    {
+      "id": "noi@video",
+      "parent": 0,
+      "dir": true,
+      "text": "Video"
+    },
+    {
+      "id": "noi:chatgpt",
+      "parent": "noi@ai",
+      "text": "ChatGPT",
+      "url": "https://chatgpt.com"
+    },
+    {
+      "id": "noi:gemini",
+      "parent": "noi@ai",
+      "text": "Gemini",
+      "url": "https://gemini.google.com"
+    },
+    {
+      "id": "noi:grok",
+      "parent": "noi@ai",
+      "text": "Grok",
+      "url": "https://grok.com"
+    },
+    {
+      "id": "noi:githubcopilot",
+      "parent": "noi@ai",
+      "text": "GitHub Copilot",
+      "url": "https://github.com/copilot"
+    },
+    {
+      "id": "noi:perplexity",
+      "parent": "noi@ai",
+      "text": "Perplexity",
+      "url": "https://www.perplexity.ai"
+    },
+    {
+      "id": "noi:copilot",
+      "parent": "noi@ai",
+      "text": "Copilot",
+      "url": "https://copilot.microsoft.com"
+    },
+    {
+      "id": "noi:groq",
+      "parent": "noi@ai",
+      "text": "Groq",
+      "url": "https://chat.groq.com"
+    },
+    {
+      "id": "noi:github",
+      "parent": "noi@dev",
+      "text": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "id": "noi:huggingface",
+      "parent": "noi@dev",
+      "text": "Hugging Face",
+      "url": "https://huggingface.co"
+    },
+    {
+      "id": "noi:vscode",
+      "parent": "noi@dev",
+      "text": "VS Code",
+      "url": "https://vscode.dev"
+    },
+    {
+      "id": "noi:projectidx",
+      "parent": "noi@dev",
+      "text": "Project IDX",
+      "url": "https://idx.google.com"
+    },
+    {
+      "id": "noi:exorders",
+      "parent": "noi@community",
+      "text": "Ex. Orders",
+      "url": "https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025"
+    },
+    {
+      "id": "noi:econassociation",
+      "parent": "noi@community",
+      "text": "Econ Association",
+      "url": "https://www.aeaweb.org/journals"
+    },
+    {
+      "id": "noi:timeseries",
+      "parent": "noi@notebooks",
+      "text": "Time Series",
+      "url": "https://1ramirez7.github.io/Applied-Time-Series-Analysis-Notebook/"
+    },
+    {
+      "id": "noi:econnotebook",
+      "parent": "noi@notebooks",
+      "text": "Econ Notebook",
+      "url": "https://1ramirez7.github.io/Economics-Notebook/"
+    },
+    {
+      "id": "noi:portfolio",
+      "parent": "noi@notebooks",
+      "text": "Portfolio",
+      "url": "https://1ramirez7.github.io/Portfolio_/"
+    },
+    {
+      "id": "noi:statsnotebook",
+      "parent": "noi@notebooks",
+      "text": "Stats Notebook",
+      "url": "https://1ramirez7.github.io/Statistics-Notebook/"
+    },
+    {
+      "id": "noi:gmail",
+      "parent": "noi@email",
+      "text": "Gmail",
+      "url": "https://mail.google.com"
+    },
+    {
+      "id": "noi:outlook",
+      "parent": "noi@email",
+      "text": "Outlook",
+      "url": "https://outlook.live.com"
+    },
+    {
+      "id": "noi:youtube",
+      "parent": "noi@video",
+      "text": "YouTube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "id": "noi:dashboard",
+      "parent": "noi@byui",
+      "text": "Dashboard",
+      "url": "https://byui.instructure.com/"
+    },
+    {
+      "id": "noi:econ381",
+      "parent": "noi@byui",
+      "text": "ECON 381",
+      "url": "https://byui.instructure.com/courses/323298"
+    },
+    {
+      "id": "noi:notebooklm",
+      "parent": "noi@byui",
+      "text": "NotebookLM",
+      "url": "https://notebooklm.google.com"
+    },
+    {
+      "id": "noi:shinyshortrun",
+      "parent": "noi@byui",
+      "text": "Short Run Model",
+      "url": "https://posit.byui.edu/connect/#/apps/5f01a187-d985-4498-896a-6e9ed70a32d5"
+    },
+    {
+      "id": "noi:shinylongrun",
+      "parent": "noi@byui",
+      "text": "Long Run Model",
+      "url": "https://posit.byui.edu/connect/#/apps/40ad9ac4-3f96-4660-ad0d-142e89e12048"
+    }
+  ]
+}

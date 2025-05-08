@@ -46,6 +46,12 @@
       "text": "Video"
     },
     {
+      "id": "noi@chatbot",
+      "parent": 0,
+      "dir": true,
+      "text": "CHATBOT"
+    },
+    {
       "id": "noi:chatgpt",
       "parent": "noi@ai",
       "text": "ChatGPT",
@@ -194,6 +200,12 @@
       "parent": "noi@byui",
       "text": "Long Run Model",
       "url": "https://posit.byui.edu/connect/#/apps/40ad9ac4-3f96-4660-ad0d-142e89e12048"
+    },
+    {
+      "id": "noi:adkbot",
+      "parent": "noi@chatbot",
+      "text": "ADK Bot",
+      "url": "http://localhost:8000"
     }
   ]
 }

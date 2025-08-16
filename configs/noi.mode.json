@@ -58,6 +58,12 @@
       "url": "https://chatgpt.com"
     },
     {
+      "id": "noi:claude",
+      "parent": "noi@ai",
+      "text": "Claude",
+      "url": "https://claude.ai"
+    },
+    {
       "id": "noi:gemini",
       "parent": "noi@ai",
       "text": "Gemini",
